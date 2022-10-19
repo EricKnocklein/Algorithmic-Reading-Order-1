@@ -4,4 +4,4 @@ This repository houses the code written during the creation of <a href="https://
 
 <h3>Files</h3>
 
-This repository is composed of two Python files: get_article_info.py to parse the wiki and make_graph.py to make and display the graph.
+This repository is composed of two Python files: `get_article_info.py` to parse the wiki and `make_graph.py` to make and display the graph.
