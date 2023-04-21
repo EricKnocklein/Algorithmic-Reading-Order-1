@@ -6,6 +6,6 @@ This repository houses the code written during the creation of <a href="https://
 
 This repository is composed of two Python files: `get_article_info.py` to parse the wiki and `make_graph.py` to make and display the graph.
 
-<h3>Next Video<h3>
+<h3>Next Video</h3>
 
 In the next video, which can be found <a href="https://youtu.be/nav-5TD5G9M"> here </a>, I discuss how to make a reading order from the graph. To do this, I develop an algorithm similar to Kahn's algorithm that can handle cycles. The code I developed for this can be found here: https://github.com/EricKnocklein/Algorithmic-Reading-Order-2
